@@ -1,0 +1,2 @@
+# Music-Sentiment-Analysis
+This project helps determine the mood of the song based on the lyrics. Various components of a song contribute to its sentiment/mood in general. Some of these components include lyrics, tempo, background music etc. The approach used in this project is to simply understand the pattern of words in the song lyrics for different categories for example, Happy Songs and Sad Songs.
